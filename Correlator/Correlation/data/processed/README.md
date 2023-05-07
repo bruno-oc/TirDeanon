@@ -1,0 +1,1 @@
+Directory to store the processed data of the captured traffic flows.

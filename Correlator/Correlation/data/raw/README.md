@@ -1,0 +1,1 @@
+Directory to store the pcap files from the captured traffic flows.
